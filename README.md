@@ -84,8 +84,8 @@ project-root/
 4. Build and run the project:
 
     ```bash
-      npm run build
-      npm start
+    npm run build
+    npm start
 
 ## Contribution Guidelines
   If you would like to contribute to Loumo Backend, please follow our [contribution guidelines]().
